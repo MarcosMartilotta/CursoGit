@@ -1,6 +1,6 @@
 # Cabeceras
 
-# Titulo h1
+# Markdown
 ## Titulo h2
 ### Titulo h3
 #### Titulo h4
@@ -56,7 +56,7 @@ Codigo en JSON
 ]
 ```
 Codigo en JavaScript
-```JavasCript
+```Javascript
 function $initHighlight(block, cls) {
   try {
     if (cls.search(/\bno\-highlight\b/) != -1)
@@ -79,3 +79,50 @@ function $initHighlight(block, cls) {
 
 export  $initHighlight;
 ```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| -------| ---------| ----------|
+| Maxi | Burgos | 23452365|
+| Tomas  | tompson  | 23546523  |
+
+# Citas de autor
+
+Esto es un texto referente a una cita que pondremos debajo
+
+> Esto es una cita, hay que dar dos enter para salir de la cita
+
+Esto es un texto que queda afuera:
+
+>esto es otra cita
+
+# Lineas divisoras
+Esto es un texto que sera dividido por guines medios tiene que estar separado por un enter
+
+---
+
+Esto es un texto dividido por asteriscos
+
+***
+
+Esto es otro dividio por guiones bajos
+
+___
+
+
+# Saltos de linea
+
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segund aprrafo, hay que dejar una linea libre para que se libere
+
+
+
+
+
+
+
+
+
+
