@@ -1,5 +1,7 @@
 # Cabeceras
 
+# Version del cruso 
+version: 1.2.2
 # Markdown
 ## Titulo h2
 ### Titulo h3
